@@ -1,0 +1,25 @@
+body{
+  background: url(../images/mobile-fifthpage2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*
+#player{
+    position: absolute;
+    left: -999em;
+}*/
+
+#playbutton{
+background-image: url(/img/play.png);
+background-color: transparent;
+background-repeat: no-repeat;
+cursor:pointer;
+border:none;
+width:400px;
+height:400px;
+margin-left: 30%;
+margin-right: auto;
+min-height: 10em;
+}
